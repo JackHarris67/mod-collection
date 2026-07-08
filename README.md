@@ -16,9 +16,9 @@
 
 ### The Rest
 * **[Army Warehouse Firehose disabler](/../../releases/tag/aw-firehose)** - Script that finds a deletes a specific Bugged Stash in AW.
-* **[Double Tap Toggle Sprint](/../../releases/tag/double-tap-sprint)** - Rudimentary script to make Hold to Sprint and Toggle Sprint work together.
+* **[Double Tap Toggle Sprint](/../../releases/tag/double-tap-sprint)** - Rudamentary script to make Hold to Sprint and Toggle Sprint work together.
 * **[GAMMA: Customizable Unjam Speed](/../../releases/tag/unjam-speedboost)** - Small mod for making Unjam Animations faster with sound perfectly synced.
 * **[GAMMA: Duck S](/../../releases/tag/duck-s)** - Custom animated GIF of a Duck shacking its Butt. Doesn't do anything on its own.
 * **[GAMMA: IED by Hotkey](/../../releases/tag/IED-hotkey)** - Simple script to use dedicated Hotkey to pick a Mine without opening Inventory in GAMMA.
-* **[GAMMA: Perkifact Rebalance + Passive Artefact Detect module](/../../releases/tag/perkifacts-rebalance-v1.04)** - Rebalances Perkifacts in GAMMA. Read the Description for details.
+* **[GAMMA: Perkifact Rebalance + Passive Artefact Detect module](/../../releases/tag/perkifacts-rebalance-v1.04)** - Rebalances and Fixes broken Perkifacts in GAMMA. Read the Description for details.
 * **[GAMMA: Visible Artefacts](/../../releases/tag/visible-artis)** - A blueprint for making Artefacts permanently Visible without a detector.
