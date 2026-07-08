@@ -2,6 +2,12 @@
 
 ### My Magnum Opus
 * **[Clash Routing and Alife Pathing manager](/../../releases/tag/CRAP-v0.92)** - Alife mod that focuses on making NPC squads travel and Mutants hunt nearby squads in unexpected areas without ever taking Player existence into consideration. Fantastic performance. Fantastic Results.
+* **[Dynamic Armor Weight - Equipped Armor Weight reduction](/../../releases/tag/dynamic-armor-weight)** - Dynamically controls Equipped Armor/Helmet weight reduction.
+* **[Phantoms (Apparitions / Psy Ghosts) fix](/../../releases/tag/psy-ghost-fix)** - Deletes Psy Ghosts being stuck on the player.
+* **[Smart Melee Targeting](/../../releases/tag/smart-melee)** - Projects multiple rays when attacking with Melee for much easier target aquisition.
+* **[Fix All Ladders - Dismount System](/../../releases/tag/ladders-fix)** - Allows Player to dismount safely from the ladder by pressing USE button.
+* **[UI Fixes](/../../releases/tag/ui-fixes)** - Small project to fix several UI bugs and issues from Default Anomaly. Fixes them in GAMMA as well.
+
 
 ### The Rest
 * **[Double Tap Toggle Sprint](/../../releases/tag/double-tap-sprint)** - Rudimentary script to make Hold to Sprint and Toggle Sprint work together.
