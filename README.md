@@ -19,3 +19,4 @@
 * **[GAMMA Fix: Cordon Transitions](/../../releases/tag/cordon-transitions)** - Fixes 0.9.5 GAMMA bug of Cordon Transitions not working correctly.
 * **[GAMMA Fix: NPC Loot Claim Remade](/../../releases/tag/loot-claim-remade)** - Fixes incomplete/buggy logic of default "G.A.M.M.A. NPC Loot Claim Remade".
 * **[GAMMA: Perkifact Rebalance + Passive Artefact Detect module](/../../releases/tag/perkifacts-rebalance-v1.04)** - Rebalances Perkifacts in GAMMA. Read the Description for details.
+* **[GAMMA: Visible Artefacts](/../../releases/tag/visible-artis)** - A blueprint for making Artefacts permanently Visible without a detector.
