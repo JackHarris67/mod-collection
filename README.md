@@ -20,3 +20,4 @@
 * **[GAMMA Fix: NPC Loot Claim Remade](/../../releases/tag/loot-claim-remade)** - Fixes incomplete/buggy logic of default "G.A.M.M.A. NPC Loot Claim Remade".
 * **[GAMMA: Perkifact Rebalance + Passive Artefact Detect module](/../../releases/tag/perkifacts-rebalance-v1.04)** - Rebalances Perkifacts in GAMMA. Read the Description for details.
 * **[GAMMA: Visible Artefacts](/../../releases/tag/visible-artis)** - A blueprint for making Artefacts permanently Visible without a detector.
+* **[GAMMA: Customizable Unjam Speed](/../../releases/tag/unjam-speedboost)** - Small mod for making Unjam Animations faster with sound perfectly synced.
