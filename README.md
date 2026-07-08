@@ -15,7 +15,7 @@
 * **[GAMMA Fix: NPC Loot Claim Remade](/../../releases/tag/loot-claim-remade)** - Fixes incomplete/buggy logic of default "G.A.M.M.A. NPC Loot Claim Remade".
 
 ### The Rest
-* **[Army Warehouse Firehose disabler](/../../releases/tag/aw-firehose)** - Script that finds a deletes a specific Bugged Stash in AW.
+* **[Army Warehouse Firehose disabler](/../../releases/tag/aw-firehose)** - Script that finds and deletes a specific Bugged Stash in AW.
 * **[Double Tap Toggle Sprint](/../../releases/tag/double-tap-sprint)** - Rudamentary script to make Hold to Sprint and Toggle Sprint work together.
 * **[GAMMA: Customizable Unjam Speed](/../../releases/tag/unjam-speedboost)** - Small mod for making Unjam Animations faster with sound perfectly synced.
 * **[GAMMA: Duck S](/../../releases/tag/duck-s)** - Custom animated GIF of a Duck shacking its Butt. Doesn't do anything on its own.
