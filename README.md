@@ -1,4 +1,4 @@
-# My GAMMA / Anomaly Mod Collection
+# My Anomaly/GAMMA Mod Collection
 
 ### My Magnum Opus
 * **[Clash Routing and Alife Pathing manager](/../../releases/tag/CRAP-v0.92)** - Alife mod that focuses on making NPC squads travel and Mutants hunt nearby squads in unexpected areas without ever taking Player existence into consideration. Fantastic performance. Fantastic Results.
