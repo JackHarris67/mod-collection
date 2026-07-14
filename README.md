@@ -16,7 +16,7 @@
 
 ### The Rest
 * **[Army Warehouse Firehose disabler](/../../releases/tag/aw-firehose)** - Script that finds and deletes a specific Bugged Stash in AW.
-* **[Double Tap Toggle Sprint](/../../releases/tag/double-tap-sprint)** - Rudamentary script to make Hold to Sprint and Toggle Sprint work together.
+* **[Smart Sprint](/../../releases/tag/smart-sprint)** - RDR2/KCD2 style Hybrid Sprint with no performance cost and dynamic Sprint Button checker.
 * **[GAMMA: Craftable Firestarter Kit](/../../releases/tag/firestarter-recipe)** - Simple mod adding Firestarter Recipe.
 * **[GAMMA: Customizable Unjam Speed](/../../releases/tag/unjam-speedboost)** - Small mod for making Unjam Animations faster with sound perfectly synced.
 * **[GAMMA: Duck S](/../../releases/tag/duck-s)** - Custom animated GIF of a Duck shacking its Butt. Doesn't do anything on its own.
