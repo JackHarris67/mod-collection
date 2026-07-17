@@ -23,3 +23,7 @@
 * **[GAMMA: IED by Hotkey](/../../releases/tag/IED-hotkey)** - Simple script to use dedicated Hotkey to pick a Mine without opening Inventory in GAMMA.
 * **[GAMMA: Perkifact Rebalance + Passive Artefact Detect module](/../../releases/tag/perkifacts-rebalance-v1.04)** - Rebalances and Fixes broken Perkifacts in GAMMA. Read the Description for details.
 * **[GAMMA: Visible Artefacts](/../../releases/tag/visible-artis)** - A blueprint for making Artefacts permanently Visible without a detector.
+
+### UNFINISHED / IN THE WORKS / ALPHA
+* **[Bounty Tasks Rework](/../../releases/tag/bounty-task-rework)** - Script injecting into default Bounty Tasks system to add new mechanics on top and change existing ones. Somewhat tested but lacks a lot of features and polish.
+* **[Companion Spotters](/../../releases/tag/spotter)** - Forces companions to look in same direction Player is looking at. Some good filters to make it work somewhat smooth. Severely untested.
