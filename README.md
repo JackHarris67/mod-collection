@@ -21,7 +21,7 @@
 * **[GAMMA: Customizable Unjam Speed](/../../releases/tag/unjam-speedboost)** - Small mod for making Unjam Animations faster with sound perfectly synced.
 * **[GAMMA: Duck S](/../../releases/tag/duck-s)** - Custom animated GIF of a Duck shacking its Butt. Doesn't do anything on its own.
 * **[GAMMA: IED by Hotkey](/../../releases/tag/IED-hotkey)** - Simple script to use dedicated Hotkey to pick a Mine without opening Inventory in GAMMA.
-* **[GAMMA: Perkifact Rebalance + Passive Artefact Detect module](/../../releases/tag/perkifacts-rebalance-v1.04)** - Rebalances and Fixes broken Perkifacts in GAMMA. Read the Description for details.
+* **[GAMMA: Perkifact Rebalance + Passive Artefact Detect module](/../../releases/tag/perkifacts-rebalance)** - Rebalances and Fixes broken Perkifacts in GAMMA. Read the Description for details.
 * **[GAMMA: Visible Artefacts](/../../releases/tag/visible-artis)** - A blueprint for making Artefacts permanently Visible without a detector.
 
 ### Unfinished / In The Works
