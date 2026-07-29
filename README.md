@@ -1,7 +1,7 @@
 # My Anomaly/GAMMA Mod Collection
 
 ### My Magnum Opus
-* **[Clash Routing and Alife Pathing manager](/../../releases/tag/CRAP-v0.92)** - Alife mod that focuses on making NPC squads travel and Mutants hunt nearby squads in unexpected areas without ever taking Player existence into consideration. Fantastic performance. Fantastic Results.
+* **[Clash Routing and Alife Pathing manager](/../../releases/tag/CRAP)** - Alife mod that focuses on making NPC squads travel and Mutants hunt nearby squads in unexpected areas without ever taking Player existence into consideration. Fantastic performance. Fantastic Results.
 * **[Dynamic Armor Weight - Equipped Armor Weight reduction](/../../releases/tag/dynamic-armor-weight)** - Dynamically controls Equipped Armor/Helmet weight reduction.
 * **[Fix All Ladders - Dismount System](/../../releases/tag/ladders-fix)** - Allows Player to dismount safely from the ladder by pressing USE button.
 * **[Phantoms (Apparitions / Psy Ghosts) fix](/../../releases/tag/psy-ghost-fix)** - Deletes Psy Ghosts being stuck on the player.
