@@ -2,6 +2,7 @@
 
 ### My Magnum Opus
 * **[Clash Routing and Alife Pathing manager](/../../releases/tag/CRAP)** - Alife mod that focuses on making NPC squads travel and Mutants hunt nearby squads in unexpected areas without ever taking Player existence into consideration. Fantastic performance. Fantastic Results.
+* **[Companion Spotters](/../../releases/tag/spotter)** - Forces companions to look in same direction Player is looking at. Detects Enemies sneaking up on the player. Makes Companions rethink their pathing if its too close to the player.
 * **[Dynamic Armor Weight - Equipped Armor Weight reduction](/../../releases/tag/dynamic-armor-weight)** - Dynamically controls Equipped Armor/Helmet weight reduction.
 * **[Fix All Ladders - Dismount System](/../../releases/tag/ladders-fix)** - Allows Player to dismount safely from the ladder by pressing USE button.
 * **[Phantoms (Apparitions / Psy Ghosts) fix](/../../releases/tag/psy-ghost-fix)** - Deletes Psy Ghosts being stuck on the player.
@@ -27,4 +28,3 @@
 
 ### Unfinished / In The Works
 * **[Bounty Tasks Rework](/../../releases/tag/bounty-task-rework)** - Script injecting into default Bounty Tasks system to add new mechanics on top and change existing ones. Somewhat tested but lacks a lot of features and polish.
-* **[Companion Spotters](/../../releases/tag/spotter)** - Forces companions to look in same direction Player is looking at. Some good filters to make it work somewhat smooth. Severely untested.
