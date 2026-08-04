@@ -28,3 +28,4 @@
 
 ### Unfinished / In The Works
 * **[Bounty Tasks Rework](/../../releases/tag/bounty-task-rework)** - Script injecting into default Bounty Tasks system to add new mechanics on top and change existing ones. Somewhat tested but lacks a lot of features and polish.
+* **[Organizational Pouch](/../../releases/tag/org-pouch)** - Mod adding a custom pouch to store stuff in and carry in the inventory. Uses default assets. Needs polish.
