@@ -17,6 +17,7 @@
 
 ### The Rest
 * **[Army Warehouse Firehose disabler](/../../releases/tag/aw-firehose)** - Script that finds and deletes a specific Bugged Stash in AW.
+* **[Animpoint Scan (Tool)](/../../releases/tag/animpoint-scan)** - Tool to scan animpoints within 10m on Y press.
 * **[Smart Sprint](/../../releases/tag/smart-sprint)** - RDR2/KCD2 style Hybrid Sprint with no performance cost and dynamic Sprint Button checker.
 * **[Smart Crouch](/../../releases/tag/smart-crouch)** - Edit of the mod above. Hybrid Crouch with no performance cost and dynamic Crouch Button checker.
 * **[GAMMA: Craftable Firestarter Kit](/../../releases/tag/firestarter-recipe)** - Simple mod adding Firestarter Recipe.
