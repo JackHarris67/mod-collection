@@ -18,8 +18,9 @@
 ### The Rest
 * **[Army Warehouse Firehose disabler](/../../releases/tag/aw-firehose)** - Script that finds and deletes a specific Bugged Stash in AW.
 * **[Animpoint Scan (Tool)](/../../releases/tag/animpoint-scan)** - Tool to scan animpoints within 10m on Y press.
-* **[Smart Sprint](/../../releases/tag/smart-sprint)** - RDR2/KCD2 style Hybrid Sprint with no performance cost and dynamic Sprint Button checker.
 * **[Smart Crouch](/../../releases/tag/smart-crouch)** - Edit of the mod above. Hybrid Crouch with no performance cost and dynamic Crouch Button checker.
+* **[Smart Sprint](/../../releases/tag/smart-sprint)** - RDR2/KCD2 style Hybrid Sprint with no performance cost and dynamic Sprint Button checker.
+* **[Smart Standdown](/../../releases/tag/smart-standdown)** - Makes nearby angry Neutrals/Friendlies calm down if Player holsters the gun.
 * **[GAMMA: Craftable Firestarter Kit](/../../releases/tag/firestarter-recipe)** - Simple mod adding Firestarter Recipe.
 * **[GAMMA: Customizable Unjam Speed](/../../releases/tag/unjam-speedboost)** - Small mod for making Unjam Animations faster with sound perfectly synced.
 * **[GAMMA: Duck S](/../../releases/tag/duck-s)** - Custom animated GIF of a Duck shacking its Butt. Doesn't do anything on its own.
