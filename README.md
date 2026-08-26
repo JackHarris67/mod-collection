@@ -23,7 +23,7 @@
 * **[GAMMA: IED by Hotkey](/../../releases/tag/IED-hotkey)** - Simple script to use dedicated Hotkey to pick a Mine without opening Inventory in GAMMA.
 * **[GAMMA: Perkifact Rebalance + Passive Artefact Detect module](/../../releases/tag/perkifacts-rebalance)** - Rebalances and Fixes broken Perkifacts in GAMMA. Read the Description for details.
 * **[GAMMA: Realistic mercenaries (Joke)](/../../releases/tag/real-mercs)** - Don't smoke russian tobacco near mercs. They don't like that.
-* **[GAMMA: Visible Artefacts (Tool)](/../../releases/tag/visible-artis)** - A blueprint for making Artefacts permanently Visible without a detector.
+* **[GAMMA: Visible Artefacts](/../../releases/tag/visible-artis)** - A blueprint for making Artefacts permanently Visible without a detector.
 
 ### The Rest
 * **[Army Warehouse Firehose disabler](/../../releases/tag/aw-firehose)** - Script that finds and deletes a specific Bugged Stash in AW.
