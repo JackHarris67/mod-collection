@@ -15,12 +15,7 @@
 * **[GAMMA Fix: Hideout Furniture Beds](/../../releases/tag/bed-rest-fix)** - Fixes broken Comfort system in GAMMA for Placable Beds.
 * **[GAMMA Fix: NPC Loot Claim Remade](/../../releases/tag/loot-claim-remade)** - Fixes incomplete/buggy logic of default "G.A.M.M.A. NPC Loot Claim Remade".
 
-### The Rest
-* **[Army Warehouse Firehose disabler](/../../releases/tag/aw-firehose)** - Script that finds and deletes a specific Bugged Stash in AW.
-* **[Animpoint Scan (Tool)](/../../releases/tag/animpoint-scan)** - Tool to scan animpoints within 10m on Y press.
-* **[Smart Crouch](/../../releases/tag/smart-crouch)** - Edit of the mod above. Hybrid Crouch with no performance cost and dynamic Crouch Button checker.
-* **[Smart Sprint](/../../releases/tag/smart-sprint)** - RDR2/KCD2 style Hybrid Sprint with no performance cost and dynamic Sprint Button checker.
-* **[Smart Standdown](/../../releases/tag/smart-standdown)** - Makes nearby angry Neutrals/Friendlies calm down if Player holsters the gun.
+### Mods only working with G.A.M.M.A
 * **[GAMMA: Craftable Firestarter Kit](/../../releases/tag/firestarter-recipe)** - Simple mod adding Firestarter Recipe.
 * **[GAMMA: Customizable Unjam Speed](/../../releases/tag/unjam-speedboost)** - Small mod for making Unjam Animations faster with sound perfectly synced.
 * **[GAMMA: Duck S](/../../releases/tag/duck-s)** - Custom animated GIF of a Duck shacking its Butt. Doesn't do anything on its own.
@@ -30,6 +25,14 @@
 * **[GAMMA: Realistic mercenaries (Joke)](/../../releases/tag/real-mercs)** - Don't smoke russian tobacco near mercs. They don't like that.
 * **[GAMMA: Visible Artefacts (Tool)](/../../releases/tag/visible-artis)** - A blueprint for making Artefacts permanently Visible without a detector.
 
+### The Rest
+* **[Army Warehouse Firehose disabler](/../../releases/tag/aw-firehose)** - Script that finds and deletes a specific Bugged Stash in AW.
+* **[Animpoint Scan (Tool)](/../../releases/tag/animpoint-scan)** - Tool to scan animpoints within 10m on Y press.
+* **[Organizational Pouch](/../../releases/tag/org-pouch)** - Mod adding a custom pouch to store stuff in and carry in the inventory. Uses default assets. Needs polish.
+* **[Smart Crouch](/../../releases/tag/smart-crouch)** - Edit of the mod above. Hybrid Crouch with no performance cost and dynamic Crouch Button checker.
+* **[Smart Sprint](/../../releases/tag/smart-sprint)** - RDR2/KCD2 style Hybrid Sprint with no performance cost and dynamic Sprint Button checker.
+* **[Smart Standdown](/../../releases/tag/smart-standdown)** - Makes nearby angry Neutrals/Friendlies calm down if Player holsters the gun.
+
+
 ### Unfinished / In The Works
 * **[Bounty Tasks Rework](/../../releases/tag/bounty-task-rework)** - Script injecting into default Bounty Tasks system to add new mechanics on top and change existing ones. Somewhat tested but lacks a lot of features and polish.
-* **[Organizational Pouch](/../../releases/tag/org-pouch)** - Mod adding a custom pouch to store stuff in and carry in the inventory. Uses default assets. Needs polish.
