@@ -33,8 +33,8 @@
 * **[Smart Standdown](/../../releases/tag/smart-standdown)** - Makes nearby angry Neutrals/Friendlies calm down if Player holsters the gun.
 
 ### Modding Tools
-* **[Animpoint Scan (Tool)](/../../releases/tag/animpoint-scan)** - Tool to scan animpoints within 10m on Y press.
-* **[Garbage Collector Profiler (Tool)](/../../releases/tag/gc-profiler)** - Tool for measuring and diagnosing LUA Garbage Collector to troubleshoot scripts generating LUA Garbage. 
+* **[Animpoint Scan](/../../releases/tag/animpoint-scan)** - Tool to scan animpoints within 10m on Y press.
+* **[Garbage Collector Profiler](/../../releases/tag/gc-profiler)** - Tool for measuring and diagnosing LUA Garbage Collector to troubleshoot scripts generating LUA Garbage. 
 
 ### Unfinished / In The Works
 * **[Bounty Tasks Rework](/../../releases/tag/bounty-task-rework)** - Script injecting into default Bounty Tasks system to add new mechanics on top and change existing ones. Somewhat tested but lacks a lot of features and polish.
