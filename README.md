@@ -1,6 +1,7 @@
 # My Anomaly/GAMMA Mod Collection
 
 ### My Magnum Opus
+* **[Bounty Tasks Overhaul](/../../releases/tag/bounty-task-rework)** - Script injecting into default Bounty Tasks system to add new mechanics on top and change existing ones.
 * **[Pathfinder: Clash Routing & A-Life Pathing manager](/../../releases/tag/CRAP)** - A supplementary framework for the original A-Life system. Squads travel naturally through unexpected areas, and mutants hunt nearby stalkers while completely ignoring your existence.
 * **[Companion Spotters](/../../releases/tag/spotter)** - Forces companions to look in same direction Player is looking at. Detects Enemies sneaking up on the player. Makes Companions rethink their pathing if its too close to the player.
 * **[Dynamic Armor Weight - Equipped Armor Weight reduction](/../../releases/tag/dynamic-armor-weight)** - Dynamically controls Equipped Armor/Helmet/Belt Attachments weight reduction.
@@ -35,6 +36,3 @@
 ### Modding Tools
 * **[Animpoint Scan](/../../releases/tag/animpoint-scan)** - Tool to scan animpoints within 10m on Y press.
 * **[Garbage Collector Profiler](/../../releases/tag/gc-profiler)** - Tool for measuring and diagnosing LUA Garbage Collector to troubleshoot scripts generating LUA Garbage. 
-
-### Unfinished / In The Works
-* **[Bounty Tasks Rework](/../../releases/tag/bounty-task-rework)** - Script injecting into default Bounty Tasks system to add new mechanics on top and change existing ones. Somewhat tested but lacks a lot of features and polish.
