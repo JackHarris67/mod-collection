@@ -1,8 +1,8 @@
 # My Anomaly/GAMMA Mod Collection
 
 ### My Magnum Opus
-* **[Bounty Tasks Overhaul](/../../releases/tag/bounty-task-rework)** - Script injecting into default Bounty Tasks system to add new mechanics on top and change existing ones.
 * **[Pathfinder: Clash Routing & A-Life Pathing manager](/../../releases/tag/CRAP)** - A supplementary framework for the original A-Life system. Squads travel naturally through unexpected areas, and mutants hunt nearby stalkers while completely ignoring your existence.
+* **[Bounty Tasks Overhaul](/../../releases/tag/bounty-task-rework)** - Script injecting into default Bounty Tasks system to add new mechanics on top and change existing ones.
 * **[Companion Spotters](/../../releases/tag/spotter)** - Forces companions to look in same direction Player is looking at. Detects Enemies sneaking up on the player. Makes Companions rethink their pathing if its too close to the player.
 * **[Dynamic Armor Weight - Equipped Armor Weight reduction](/../../releases/tag/dynamic-armor-weight)** - Dynamically controls Equipped Armor/Helmet/Belt Attachments weight reduction.
 * **[Fix All Ladders - Dismount System](/../../releases/tag/ladders-fix)** - Allows Player to dismount safely from the ladder by pressing USE button.
