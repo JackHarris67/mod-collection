@@ -11,6 +11,7 @@
 * **[UI Fixes](/../../releases/tag/ui-fixes)** - Small project to fix several UI bugs and issues from Default Anomaly. Fixes them in GAMMA as well.
 
 ### G.A.M.M.A Fixes
+* **[GAMMA Fix: All Transitions](/../../releases/tag/all-transitions)** - Fixes 0.9.5 GAMMA bug of Transitions not working correctly. Includes all maps instead of just Cordon.
 * **[GAMMA Fix: Cordon Transitions](/../../releases/tag/cordon-transitions)** - Fixes 0.9.5 GAMMA bug of Cordon Transitions not working correctly.
 * **[GAMMA Fix: Fanatic Tutorial / Training Day](/../../releases/tag/fanatic-fix)** - Fixes 0.9.5 GAMMA bug of Training Day not working correctly.
 * **[GAMMA Fix: Hideout Furniture Beds](/../../releases/tag/bed-rest-fix)** - Fixes broken Comfort system in GAMMA for Placable Beds.
