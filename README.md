@@ -21,6 +21,7 @@
 * **[GAMMA: Craftable Firestarter Kit](/../../releases/tag/firestarter-recipe)** - Simple mod adding Firestarter Recipe.
 * **[GAMMA: Customizable Unjam Speed](/../../releases/tag/unjam-speedboost)** - Small mod for making Unjam Animations faster with sound perfectly synced.
 * **[GAMMA: Duck S](/../../releases/tag/duck-s)** - Custom animated GIF of a Duck shacking its Butt. Doesn't do anything on its own.
+* **[GAMMA: BHS 30FPS UI Update Lock](/../../releases/tag/BHS-update-lock)** - Experimental. Throttles BHS UI Update.
 * **[GAMMA: Hide Clock (Keep Minimap)](/../../releases/tag/hide-clock)** - Hides clock in the corner of the screen. Default GAMMA UI only.
 * **[GAMMA: IED by Hotkey](/../../releases/tag/IED-hotkey)** - Simple script to use dedicated Hotkey to pick a Mine without opening Inventory in GAMMA.
 * **[GAMMA: Inverted NPC Loot Claim Remade](/../../releases/tag/inverted_loot_claim)** - Took "Loot Claim" and made it so Player protects his kills while other NPCs only loot theirs.
