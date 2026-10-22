@@ -31,6 +31,7 @@
 ### The Rest
 * **[Army Warehouse Firehose disabler](/../../releases/tag/aw-firehose)** - Script that finds and deletes a specific Bugged Stash in AW.
 * **[Organizational Pouch](/../../releases/tag/org-pouch)** - Mod adding a custom pouch to store stuff in and carry in the inventory. Uses default assets. Needs polish.
+* **[Remove Signal Flares in Red Forest and Limansk ](/../../releases/tag/rf-lim-flares)** - Script disabling Signal Flares to remove Light Flickering on each Quickload of those maps.
 * **[Smart Crouch](/../../releases/tag/smart-crouch)** - Edit of the mod above. Hybrid Crouch with no performance cost and dynamic Crouch Button checker.
 * **[Smart Sprint](/../../releases/tag/smart-sprint)** - RDR2/KCD2 style Hybrid Sprint with no performance cost and dynamic Sprint Button checker.
 * **[Smart Standdown](/../../releases/tag/smart-standdown)** - Makes nearby angry Neutrals/Friendlies calm down if Player holsters the gun.
