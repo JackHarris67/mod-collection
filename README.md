@@ -38,9 +38,10 @@
 
 ### Modding Tools
 * **[Animpoint Scan](/../../releases/tag/animpoint-scan)** - Tool to scan animpoints within 10m on Y press.
-* **[Garbage Collector Profiler](/../../releases/tag/gc-profiler)** - Tool for measuring and diagnosing LUA Garbage Collector to troubleshoot scripts generating LUA Garbage. 
+* **[Garbage Collector Profiler](/../../releases/tag/gc-profiler)** - Tool for measuring and diagnosing LUA Garbage Collector to troubleshoot scripts generating LUA Garbage.
 
 ### Testing
+* **[GAMMA: AI Cleanup](/../../releases/tag/ai_cleanup)** - Experimental. Fixes several issues and errors related to gamma AI rework.
 * **[GAMMA: Better Knife Skinning](/../../releases/tag/skinning)** - Experimental. Improves knife skinning to use dynamic tables and fix UI bugs.
 * **[GAMMA: Better One Shot protection](/../../releases/tag/bhs-osp)** - Experimental. Improves and makes one-shot protection more consistent.
 * **[GAMMA: BHS UI Update Lock](/../../releases/tag/BHS-update-lock)** - Experimental. Throttles BHS UI Update.
