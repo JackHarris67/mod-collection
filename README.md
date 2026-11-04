@@ -10,6 +10,11 @@
 * **[Smart Melee Targeting](/../../releases/tag/smart-melee)** - Projects multiple rays when attacking with Melee for much easier target aquisition.
 * **[UI Fixes](/../../releases/tag/ui-fixes)** - Small project to fix several UI bugs and issues from Default Anomaly. Fixes them in GAMMA as well.
 
+### Currently Testing
+* **[GAMMA: AI Cleanup](/../../releases/tag/ai_cleanup)** - Fixes several issues and errors related to gamma AI rework and adds new Tactical Combat AI behavior
+* **[GAMMA: Better One Shot protection](/../../releases/tag/bhs-osp)** - Improves and makes one-shot protection more consistent. Fixes Hideout Furniture killing player with collisions.
+* **[GAMMA: BHS UI Update Lock](/../../releases/tag/BHS-update-lock)** - Throttles BHS UI Update.
+
 ### G.A.M.M.A Fixes
 * **[GAMMA Fix: All Transitions](/../../releases/tag/all-transitions)** - Fixes 0.9.5 GAMMA bug of Transitions not working correctly. Includes all maps instead of just Cordon.
 * **[GAMMA Fix: Cordon Transitions](/../../releases/tag/cordon-transitions)** - Fixes 0.9.5 GAMMA bug of Cordon Transitions not working correctly.
@@ -18,6 +23,8 @@
 * **[GAMMA Fix: NPC Loot Claim Remade](/../../releases/tag/loot-claim-remade)** - Fixes incomplete/buggy logic of default "G.A.M.M.A. NPC Loot Claim Remade".
 
 ### Mods only working with G.A.M.M.A
+* **[GAMMA: Autolit Campfires](/../../releases/tag/autolit-campfires)** -  Fixes several issues with campfires by forcing selected campfires to be on permanently.
+* **[GAMMA: Better Knife Skinning](/../../releases/tag/skinning)** - Improves knife skinning to use dynamic tables and fix UI bugs.
 * **[GAMMA: Craftable Firestarter Kit](/../../releases/tag/firestarter-recipe)** - Simple mod adding Firestarter Recipe.
 * **[GAMMA: Customizable Unjam Speed](/../../releases/tag/unjam-speedboost)** - Small mod for making Unjam Animations faster with sound perfectly synced.
 * **[GAMMA: Duck S](/../../releases/tag/duck-s)** - Custom animated GIF of a Duck shacking its Butt. Doesn't do anything on its own.
@@ -39,10 +46,3 @@
 ### Modding Tools
 * **[Animpoint Scan](/../../releases/tag/animpoint-scan)** - Tool to scan animpoints within 10m on Y press.
 * **[Garbage Collector Profiler](/../../releases/tag/gc-profiler)** - Tool for measuring and diagnosing LUA Garbage Collector to troubleshoot scripts generating LUA Garbage.
-
-### Testing
-* **[GAMMA: AI Cleanup](/../../releases/tag/ai_cleanup)** - Experimental. Fixes several issues and errors related to gamma AI rework.
-* **[GAMMA: Better Knife Skinning](/../../releases/tag/skinning)** - Experimental. Improves knife skinning to use dynamic tables and fix UI bugs.
-* **[GAMMA: Better One Shot protection](/../../releases/tag/bhs-osp)** - Experimental. Improves and makes one-shot protection more consistent.
-* **[GAMMA: BHS UI Update Lock](/../../releases/tag/BHS-update-lock)** - Experimental. Throttles BHS UI Update.
-* **[GAMMA: Autolit Campfires](/../../releases/tag/autolit-campfires)** - Experimental. Fixes several issues with campfires by forcing selected campfires to be on permanently.
