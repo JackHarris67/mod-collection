@@ -14,7 +14,7 @@
 * **[GAMMA: AI Cleanup](/../../releases/tag/ai_cleanup)** - Fixes several issues and errors related to gamma AI rework and adds new Tactical Combat AI behavior
 * **[GAMMA: Better One Shot protection](/../../releases/tag/bhs-osp)** - Improves and makes one-shot protection more consistent. Fixes Hideout Furniture killing player with collisions.
 * **[GAMMA: BHS UI Update Lock](/../../releases/tag/BHS-update-lock)** - Throttles BHS UI Update.
-* **[GAMMA: Dynamic Inventory Stacker](/../../releases/tag/DRAS)** - Iterates inventory in stacks instead of individual items one-by-one. Use "Heavy" version if crashing.
+* **[Dynamic Inventory Stacker](/../../releases/tag/DRAS)** - Iterates inventory in stacks instead of individual items one-by-one. Use "Heavy" version if crashing.
 
 ### G.A.M.M.A Fixes
 * **[GAMMA Fix: All Transitions](/../../releases/tag/all-transitions)** - Fixes 0.9.5 GAMMA bug of Transitions not working correctly. Includes all maps instead of just Cordon.
