@@ -11,21 +11,13 @@
 * **[UI Fixes](/../../releases/tag/ui-fixes)** - Small project to fix several UI bugs and issues from Default Anomaly. Fixes them in GAMMA as well.
 
 ### Currently Testing
-* **[GAMMA: AI Cleanup](/../../releases/tag/ai_cleanup)** - Fixes several issues and errors related to gamma AI rework and adds new Tactical Combat AI behavior
-* **[GAMMA: Better One Shot protection](/../../releases/tag/bhs-osp)** - Improves and makes one-shot protection more consistent. Fixes Hideout Furniture killing player with collisions.
 * **[GAMMA: BHS UI Update Lock](/../../releases/tag/BHS-update-lock)** - Throttles BHS UI Update.
 * **[Dynamic Inventory Stacker](/../../releases/tag/DRAS)** - Iterates inventory in stacks instead of individual items one-by-one.
 
 ### G.A.M.M.A Fixes
-* **[GAMMA Fix: All Transitions](/../../releases/tag/all-transitions)** - Fixes 0.9.5 GAMMA bug of Transitions not working correctly. Includes all maps instead of just Cordon.
-* **[GAMMA Fix: Cordon Transitions](/../../releases/tag/cordon-transitions)** - Fixes 0.9.5 GAMMA bug of Cordon Transitions not working correctly.
 * **[GAMMA Fix: Fanatic Tutorial / Training Day](/../../releases/tag/fanatic-fix)** - Fixes 0.9.5 GAMMA bug of Training Day not working correctly.
-* **[GAMMA Fix: Hideout Furniture Beds](/../../releases/tag/bed-rest-fix)** - Fixes broken Comfort system in GAMMA for Placable Beds.
-* **[GAMMA Fix: NPC Loot Claim Remade](/../../releases/tag/loot-claim-remade)** - Fixes incomplete/buggy logic of default "G.A.M.M.A. NPC Loot Claim Remade".
 
 ### Mods only working with G.A.M.M.A
-* **[GAMMA: Autolit Campfires](/../../releases/tag/autolit-campfires)** -  Fixes several issues with campfires by forcing selected campfires to be on permanently.
-* **[GAMMA: Better Knife Skinning](/../../releases/tag/skinning)** - Improves knife skinning to use dynamic tables and fix UI bugs.
 * **[GAMMA: Craftable Firestarter Kit](/../../releases/tag/firestarter-recipe)** - Simple mod adding Firestarter Recipe.
 * **[GAMMA: Customizable Unjam Speed](/../../releases/tag/unjam-speedboost)** - Small mod for making Unjam Animations faster with sound perfectly synced.
 * **[GAMMA: Duck S](/../../releases/tag/duck-s)** - Custom animated GIF of a Duck shacking its Butt. Doesn't do anything on its own.
@@ -43,6 +35,18 @@
 * **[Smart Crouch](/../../releases/tag/smart-crouch)** - Edit of the mod above. Hybrid Crouch with no performance cost and dynamic Crouch Button checker.
 * **[Smart Sprint](/../../releases/tag/smart-sprint)** - RDR2/KCD2 style Hybrid Sprint with no performance cost and dynamic Sprint Button checker.
 * **[Smart Standdown](/../../releases/tag/smart-standdown)** - Makes nearby angry Neutrals/Friendlies calm down if Player holsters the gun.
+
+### Completely obsolete due to being already in GAMMA
+* **[GAMMA: AI Cleanup](/../../releases/tag/ai_cleanup)** - Fixes several issues and errors related to gamma AI rework and adds new Tactical Combat AI behavior
+* **[GAMMA: Autolit Campfires](/../../releases/tag/autolit-campfires)** -  Fixes several issues with campfires by forcing selected campfires to be on permanently.
+* **[GAMMA: Better One Shot protection](/../../releases/tag/bhs-osp)** - Improves and makes one-shot protection more consistent. Fixes Hideout Furniture killing player with collisions.
+* **[GAMMA: Better Knife Skinning](/../../releases/tag/skinning)** - Improves knife skinning to use dynamic tables and fix UI bugs.
+
+* **[GAMMA Fix: All Transitions](/../../releases/tag/all-transitions)** - Fixes 0.9.5 GAMMA bug of Transitions not working correctly. Includes all maps instead of just Cordon.
+* **[GAMMA Fix: Cordon Transitions](/../../releases/tag/cordon-transitions)** - Fixes 0.9.5 GAMMA bug of Cordon Transitions not working correctly.
+* **[GAMMA Fix: Hideout Furniture Beds](/../../releases/tag/bed-rest-fix)** - Fixes broken Comfort system in GAMMA for Placable Beds.
+* **[GAMMA Fix: NPC Loot Claim Remade](/../../releases/tag/loot-claim-remade)** - Fixes incomplete/buggy logic of default "G.A.M.M.A. NPC Loot Claim Remade".
+
 
 ### Modding Tools
 * **[Animpoint Scan](/../../releases/tag/animpoint-scan)** - Tool to scan animpoints within 10m on Y press.
