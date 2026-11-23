@@ -31,6 +31,7 @@
 
 ### The Rest
 * **[Army Warehouse Firehose disabler](/../../releases/tag/aw-firehose)** - Script that finds and deletes a specific Bugged Stash in AW.
+* **[Dynamic Inventory Stacker](/../../releases/tag/DRAS)** - Iterates inventory in stacks instead of individual items one-by-one.
 * **[Organizational Pouch](/../../releases/tag/org-pouch)** - Mod adding a custom pouch to store stuff in and carry in the inventory. Uses default assets. Needs polish.
 * **[Remove Signal Flares in Red Forest, Limansk and Zaton](/../../releases/tag/rf-lim-flares)** - Script disabling Signal Flares to remove Light Flickering on each Quickload of those maps.
 * **[Smart Crouch](/../../releases/tag/smart-crouch)** - Edit of the mod above. Hybrid Crouch with no performance cost and dynamic Crouch Button checker.
