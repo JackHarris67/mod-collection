@@ -12,7 +12,7 @@
 
 ### Currently Testing
 * **[GAMMA: BHS UI Update Lock](/../../releases/tag/BHS-update-lock)** - Throttles BHS UI Update.
-* **[GAMMA: GAMMA: HUB Tweaks](/../../releases/tag/hub_tweaks)** - Some edits to animpoints to make them dynamic with time of day and make Skadovsk/Yanov less crowded for +Fps
+* **[GAMMA: HUB Tweaks](/../../releases/tag/hub_tweaks)** - Some edits to animpoints to make them dynamic with time of day and make Skadovsk/Yanov less crowded for +Fps
 * **[Dynamic Inventory Stacker](/../../releases/tag/DRAS)** - Iterates inventory in stacks instead of individual items one-by-one.
 
 ### G.A.M.M.A Fixes
